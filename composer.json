@@ -5,11 +5,9 @@
     "type": "project",
     "require": {
         "php": ">=5.6",
-        "cakedc/users": "^7.0",
         "cakephp/cakephp": "3.6.*",
         "cakephp/migrations": "^2.0.0",
         "cakephp/plugin-installer": "^1.0",
-        "friendsofcake/search": "^4.4",
         "google/recaptcha": "^1.1",
         "josegonzalez/dotenv": "3.*",
         "mobiledetect/mobiledetectlib": "2.*"
